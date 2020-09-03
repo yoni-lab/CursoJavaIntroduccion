@@ -5,7 +5,7 @@ public class Insomnio{
         int horaDesperto=11;
         int minDesperto=25;
         int horaDurmioMin=horaDurmio*60+minDurmio;
-        int horaDespertoMin=horaDesperto*60+minDurmio;
+        int horaDespertoMin=horaDesperto*60+minDesperto;
         int res=horaDespertoMin-horaDurmioMin;
         return res;
     }

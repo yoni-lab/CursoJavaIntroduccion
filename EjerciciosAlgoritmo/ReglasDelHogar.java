@@ -3,6 +3,5 @@ public class ReglasDelHogar{
        int diasSemana=7;
        int res=diasSemana*2;
        return res;
-   }
-       
+   } 
 }

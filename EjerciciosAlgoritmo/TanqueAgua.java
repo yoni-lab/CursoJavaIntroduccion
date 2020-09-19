@@ -11,6 +11,5 @@ public class TanqueAgua{
        
         int res=tiempoLlenarTanque;
         return res;
-        
     }
 }

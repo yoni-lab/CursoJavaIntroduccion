@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=MaquinaO
+comment1.params=
+comment1.target=MaquinaO()
+comment2.params=capacidadActual\ cantidadActual
+comment2.target=void\ inicializar(int,\ int)
+comment3.params=
+comment3.target=void\ crear()
+comment4.params=cantidadNueva
+comment4.target=int\ getAgregarSavia(int)
+comment5.params=
+comment5.target=int\ getCapacidadDisponible()
+comment6.params=
+comment6.target=int\ getRetirarAlmacenado()
+comment7.params=cantidadNueva
+comment7.target=void\ retirarAlmacenada(int)
+numComments=8

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Cuaderno
+comment1.params=
+comment1.target=Cuaderno()
+comment2.params=
+comment2.target=java.lang.String\ getTareaActual()
+comment3.params=tareaActual
+comment3.target=void\ setTareaActual(java.lang.String)
+comment4.params=
+comment4.target=void\ NuevaTarea()
+comment5.params=
+comment5.target=java.lang.String\ getTareaActualConcluida()
+comment6.params=nTarea
+comment6.target=void\ crearTarea(java.lang.String)
+numComments=7

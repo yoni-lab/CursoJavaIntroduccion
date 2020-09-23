@@ -1,28 +1,44 @@
-import java.util.Random;
 public class Juego{
-    private int intento_X;
-    private int intento_Y;
-    private int primerIntento, segundoIntento, tercerIntento;
+    private int coordenadaX, coordenadaY;
+    private int cantIntentos;
     
-    public Juego(){
-        this.primerIntento=primerIntento;
-        this.segundoIntento=segundoIntento;
-        this.tercerIntento=tercerIntento;
-        
-    }
-    public int getIntento1(int nuevoIntento){
-        return nuevoIntento;
-        
-    }
-    public int getIntento2(int nuevoIntento){
-        return this.intento_X=nuevoIntento;
-    }
+     public Juego(){
+         cantIntentos=3;
+         coordenadaX= (int)(Math.random()*10+1);
+         coordenadaY= (int)(Math.random()*10+1);
+       }
     
-    public void jugar(int X, int Y){
-       
-       Random random = new Random();
-       System.out.println(random.nextInt(10));
-     }
+      public String jugar(int x, int y) {
+        String res="";
+        
+        
+         if(cantIntentos>0){
+            if(x==coordenadaX && y==coordenadaY){                   //supongamos que hacertamos en las dos coordenadas
+                res="ganaste";
+                
+            }else if(coordenadaX == x){                      
+                res="x esta en su posicion";                             
+            }
+            else if(coordenadaX >  x){
+                res="x esta cerca el numero era "+ coordenadaX;                
+            }else if(coordenadaY == y){
+                res="y esta en su posicion";                              
+            }
+            else if(coordenadaY <y){
+                res="y esta lejos el numero era "+ coordenadaY;                   
+            }    
+                cantIntentos--;
+        }else{
+            res="ya no puede jugar";
+        }
+        return res;
+    }
+    public void reiniciar(){
+        if(cantIntentos<3){
+            cantIntentos++;                          //al agotar los intemtos se pide reiniciar el juego e incrementamos los intentos
+            }
+            
+    }
+   
 }
-    
- 
+

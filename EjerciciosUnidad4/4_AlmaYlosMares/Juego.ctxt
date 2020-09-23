@@ -2,10 +2,8 @@
 comment0.target=Juego
 comment1.params=
 comment1.target=Juego()
-comment2.params=nuevoIntento
-comment2.target=int\ getIntento1(int)
-comment3.params=nuevoIntento
-comment3.target=int\ getIntento2(int)
-comment4.params=X\ Y
-comment4.target=void\ jugar(int,\ int)
-numComments=5
+comment2.params=x\ y
+comment2.target=java.lang.String\ jugar(int,\ int)
+comment3.params=
+comment3.target=void\ reiniciar()
+numComments=4

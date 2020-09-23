@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Semaforo
+comment1.params=
+comment1.target=Semaforo()
+comment2.params=nVeces
+comment2.target=java.lang.String\ Semaforo(int)
+numComments=3

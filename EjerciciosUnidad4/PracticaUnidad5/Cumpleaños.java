@@ -1,8 +1,7 @@
 
  public class Cumpleaños{
-  
-    
-    public String Cumpleaños(int dia, int mes, int año){
+ 
+    public String fijarFecha(int dia, int mes, int año){
        String res="";
         String respuesta="";
         switch(mes){       
@@ -18,7 +17,7 @@
             case 10: res ="Octubre"; break;
             case 11: res="Noviembre"; break;
             case 12: res = "Diciembre"; break;
-            default : res ="El mes no existe";
+            default : res ="Mes invalido";
         }    
         respuesta="El cumpleaños es "+dia+ "de" +res + "de"+ año;
         

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=NumCreciente
+comment1.params=n1\ n2\ n3
+comment1.target=java.lang.String\ Numeros(int,\ int,\ int)
+numComments=2

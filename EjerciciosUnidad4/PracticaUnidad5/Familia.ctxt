@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Familia
+comment1.params=hijo1\ hijo2\ hijo3
+comment1.target=Familia(Hijo,\ Hijo,\ Hijo)
+comment2.params=
+comment2.target=java.lang.String\ getNombreHijoMayor()
+comment3.params=
+comment3.target=java.lang.String\ getNombreHijoMedio()
+numComments=4

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=NumPerfecto_5
+comment1.params=num
+comment1.target=int\ CalcularNumPerfecto(int)
+comment2.params=
+comment2.target=void\ setOperaciones()
+comment3.params=
+comment3.target=void\ getResultado()
+numComments=4

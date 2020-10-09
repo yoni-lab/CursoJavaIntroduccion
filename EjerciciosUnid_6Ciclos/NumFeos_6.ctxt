@@ -1,5 +1,7 @@
 #BlueJ class context
 comment0.target=NumFeos_6
 comment1.params=num
-comment1.target=int\ CalcularNum(int)
-numComments=2
+comment1.target=int\ CalcularNumFeos(int)
+comment2.params=n
+comment2.target=int\ divisores(int)
+numComments=3

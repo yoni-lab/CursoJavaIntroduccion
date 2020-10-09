@@ -1,5 +1,7 @@
 #BlueJ class context
 comment0.target=Cuadrado_7
 comment1.params=num
-comment1.target=int\ encontrarCuadrado(int)
-numComments=2
+comment1.target=int\ calcularDigitos(int)
+comment2.params=num
+comment2.target=void\ encontrarCuadrado(int)
+numComments=3

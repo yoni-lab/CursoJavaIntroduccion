@@ -8,7 +8,6 @@ public class Fibonacci_1{
             return CalcularFibonacci(n-1) + CalcularFibonacci(n-2);
         }
     }
-    
     public int CalcularFiboCiclo(int n){
         int fibo=0, primero=1, segundo=0;
         while(n > 0){

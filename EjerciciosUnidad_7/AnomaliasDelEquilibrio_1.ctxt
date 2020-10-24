@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=AnomaliasDelEquilibrio_1
+comment1.params=
+comment1.target=AnomaliasDelEquilibrio_1()
+comment2.params=valor
+comment2.target=boolean\ agregarElemento(int)
+comment3.params=
+comment3.target=void\ ordenar()
+comment4.params=elemento
+comment4.target=int\ busquedaBinaria_1(int)
+numComments=5

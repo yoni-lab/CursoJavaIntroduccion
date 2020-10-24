@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Estrellas_3
+comment1.params=
+comment1.target=Estrellas_3()
+comment2.params=valor
+comment2.target=boolean\ agregarElemento(int)
+comment3.params=
+comment3.target=void\ ordenar()
+comment4.params=a\ b
+comment4.target=void\ unirArreglos(int[],\ int[])
+numComments=5

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Sue\u00F1o
+comment1.params=nom\ dia\ descripcion
+comment1.target=Sue\u00F1o(java.lang.String,\ int,\ java.lang.String)
+comment2.params=otro
+comment2.target=boolean\ equals(Sue\u00F1o)
+comment3.params=
+comment3.target=int\ getDia()
+comment4.params=
+comment4.target=java.lang.String\ getNombre()
+comment5.params=
+comment5.target=java.lang.String\ getDescripcion()
+numComments=6

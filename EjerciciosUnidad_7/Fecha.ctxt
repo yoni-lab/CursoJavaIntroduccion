@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Fecha
+comment1.params=descripcion\ dia\ mes\ a\u00F1o
+comment1.target=Fecha(java.lang.String,\ int,\ java.lang.String,\ int)
+comment2.params=otro
+comment2.target=boolean\ equals(Fecha)
+comment3.params=
+comment3.target=int\ getDia()
+comment4.params=
+comment4.target=java.lang.String\ getMes()
+comment5.params=
+comment5.target=int\ getA\u00F1o()
+comment6.params=
+comment6.target=java.lang.String\ getDescripcion()
+numComments=7

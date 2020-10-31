@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Baraja
+comment1.params=simbolos
+comment1.target=Baraja(Simbolo[][])
+comment2.params=
+comment2.target=java.lang.String\ nomCartMayValor()
+comment3.params=
+comment3.target=java.lang.String\ nomCartMenValor()
+comment4.params=
+comment4.target=java.lang.String\ filBarjMayValor()
+comment5.params=
+comment5.target=java.lang.String\ filBarjMenValor()
+comment6.params=
+comment6.target=void\ visualizar()
+numComments=7

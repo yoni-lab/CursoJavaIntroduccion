@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Simbolo
+comment1.params=val\ car
+comment1.target=Simbolo(int,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ mostrarDatos()
+comment3.params=
+comment3.target=int\ getValorCarta()
+comment4.params=val
+comment4.target=void\ setValorCarta(int)
+comment5.params=
+comment5.target=java.lang.String\ getCarta()
+comment6.params=car
+comment6.target=void\ setCarta(java.lang.String)
+numComments=7

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Juego_3
+comment1.params=casilleros
+comment1.target=Juego_3(Casillero[][])
+comment2.params=
+comment2.target=java.lang.String\ nomCasilleroTib()
+comment3.params=
+comment3.target=java.lang.String\ nomCasilleroTes()
+comment4.params=
+comment4.target=java.lang.String\ casillaSup()
+comment5.params=
+comment5.target=java.lang.String\ casillaInf()
+comment6.params=
+comment6.target=void\ visualizar()
+numComments=7

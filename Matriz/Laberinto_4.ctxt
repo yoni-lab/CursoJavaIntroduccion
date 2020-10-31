@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Laberinto_4
+comment1.params=mat
+comment1.target=void\ mostrarMatriz(java.lang.String[][])
+comment2.params=mat
+comment2.target=void\ cambiarLugar(java.lang.String[][])
+comment3.params=mat\ cadena
+comment3.target=void\ rellenarMatriz(java.lang.String[][],\ java.lang.String)
+comment4.params=posI\ posJ\ mat
+comment4.target=boolean\ dentroMatriz(int,\ int,\ java.lang.String[][])
+numComments=5
